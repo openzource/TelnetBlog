@@ -1,6 +1,9 @@
 Este es un archivo de texto plano para realizar la práctica 
 del curso git y github
 
-por lo tanto, desde la terminal invoqué el comando CODE para 
-que el vscode abriera.
+por lo tanto, desde la terminal invoqué el comando git config para 
+ver quién soy y desde donde envío los commits.
 
+de todas formas, igual invoco a code desde la terminal
+
+.
