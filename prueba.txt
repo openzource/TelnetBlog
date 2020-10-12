@@ -4,6 +4,6 @@ del curso git y github
 por lo tanto, desde la terminal invoqué el comando git config para 
 ver quién soy y desde donde envío los commits.
 
-de todas formas, igual invoco a code desde la terminal
+de todas formas, igual invoco a code desde la terminal.
 
-.
+Hablaré de mi vida
