@@ -12,3 +12,9 @@ body{
     background-color: azure;
     margin: 0 auto;
 }
+#cabecera{
+    background-color: crimson;
+    color: black;
+    padding: 2em;
+    font-size: 23px;
+}
